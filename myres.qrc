@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/triangle32.png</file>
+        <file>images/square32.png</file>
+        <file>images/pencil32.png</file>
+        <file>images/circle32.png</file>
+        <file>images/color32.png</file>
+        <file>images/line32.png</file>
+    </qresource>
+</RCC>
