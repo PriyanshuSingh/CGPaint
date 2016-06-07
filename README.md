@@ -1,5 +1,5 @@
 # CGPaint
-Simple paint program written in openGL 4.1 and Qt 5.5
+Simple paint program written in openGL 4.1 and Qt 5.5. No Qt Paint classes are used, all the rendering part is done through  OpenGL.
 
 ###Screenshots:
 
